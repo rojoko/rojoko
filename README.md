@@ -11,6 +11,8 @@ In recent years, I have been working with early stage corporate startups in inte
 * Cloud Stacks: AWS, Microsoft Azure, Google Cloud Platform, Kubernetes, Docker, Terraform
 * Databases: PostgreSQL, MySQL, Redis
 * Message Brokers: RabbitMQ, Apache Kafka
+
+[https://www.linkedin.com/in/rolandjkoch/](https://www.linkedin.com/in/rolandjkoch/)
 <!--
 **rojoko/rojoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
