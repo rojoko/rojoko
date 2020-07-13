@@ -6,11 +6,11 @@ In product build, I live agile approaches and lean startup methodology with a st
 
 In recent years, I have been working with early stage corporate startups in interim CTO and technology leadership roles - building teams and coaching them to develop solid, scalable and secure cloud software products using technologies including:
 
-• Languages: Ruby, Java, Kotlin, JavaScript and whatever solves the problem best
-• Frameworks: Ruby on Rails, Spring Boot, React, Flutter
-• Cloud Stacks: AWS, Microsoft Azure, Google Cloud Platform, Kubernetes, Docker, Terraform
-• Databases: PostgreSQL, MySQL, Redis
-• Message Brokers: RabbitMQ, Apache Kafka
+* Languages: Ruby, Java, Kotlin, JavaScript and whatever solves the problem best
+* Frameworks: Ruby on Rails, Spring Boot, React, Flutter
+* Cloud Stacks: AWS, Microsoft Azure, Google Cloud Platform, Kubernetes, Docker, Terraform
+* Databases: PostgreSQL, MySQL, Redis
+* Message Brokers: RabbitMQ, Apache Kafka
 <!--
 **rojoko/rojoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
