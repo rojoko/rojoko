@@ -10,7 +10,7 @@ In recent years, I have been working with early stage corporate startups in inte
 * Frameworks: Ruby on Rails, Spring Boot, React, Flutter
 * Cloud Stacks: AWS, Microsoft Azure, Google Cloud Platform, Kubernetes, Docker, Terraform
 * Databases: PostgreSQL, MySQL, Redis
-* Message Brokers: RabbitMQ, Apache Kafka
+* Message Brokers: HiveMQ, RabbitMQ, Apache Kafka
 
 [https://www.linkedin.com/in/rolandjkoch/](https://www.linkedin.com/in/rolandjkoch/)
 <!--
